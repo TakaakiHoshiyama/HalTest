@@ -5,4 +5,4 @@ namespace Hoshiyama
 	const char* TextMessage3 = "私の好きな食べ物は焼肉です。";
 }
 
-// MERGE TEST!!
+// CONFLICT TEST!!
