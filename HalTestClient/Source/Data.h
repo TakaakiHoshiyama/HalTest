@@ -2,5 +2,5 @@ namespace Hoshiyama
 {
 	const char* TextMessage1 = "私の名前は三郎です。";
 	const char* TextMessage2 = "私の年齢は35歳です。";
-	const char* TextMessage3 = "私の好きな食べ物はカレーライスです。";
+	const char* TextMessage3 = "私の好きなゲームはFFです。";
 }
