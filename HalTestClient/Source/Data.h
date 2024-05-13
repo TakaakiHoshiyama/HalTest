@@ -16,5 +16,8 @@ namespace Hoshiyama
 	const char* TextMessage2 = "私の年齢は20歳です。";
 	const char* TextMessage3 = "私の好きな食べ物は焼肉です。";
 	const char* TextMessage4 = "私の性別は男性です。";
+
+	const char* TextMessage5 = "カニカマは最強の食べ物です。";
+
 >>>>>>> main
 }
